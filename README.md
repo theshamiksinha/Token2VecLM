@@ -10,7 +10,7 @@ This project implements core **Natural Language Processing (NLP)** components fr
 ├── 📂 Data
 │ ├── 📄 corpus.txt                        <- Raw text corpus for tokenization
 │ ├── 📄 tokenized_data.json               <- Preprocessed tokenized data
-│ ├── 📄 vocabulary_86.txt                 <- Extracted vocabulary with 86 unique tokens
+│ ├── 📄 vocabulary_86.txt                 <- Extracted vocabulary with 
 ├── 📂 src
 │ ├── 📓 Neural_Language_model.ipynb       <- Notebook implementing a neural language model
 │ ├── 📜 Word2Vec_model.py                 <- Word2Vec model for word embeddings
