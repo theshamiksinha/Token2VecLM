@@ -107,3 +107,54 @@ Ensure you have the following installed:
 #### Installation  
 ```bash
 pip install torch numpy pandas
+```  
+
+### Running the Scripts  
+
+Run the following commands to execute each task:  
+
+**Task 1: WordPiece Tokenizer**  
+```bash
+python WordPieceTokeniser.py
+```
+
+**Task 2: Word2Vec Training**  
+```bash
+python Word2Vec_model.py
+```
+
+**Task 3: Neural Language Model**  
+```bash
+python task3.py
+```
+
+---
+
+## Results and Observations 🔍  
+
+- The **WordPiece Tokenizer** effectively segments words into subwords.  
+- The **CBOW Word2Vec model** captures meaningful word relationships.  
+- The **Neural Language Models** exhibit varying performance based on architecture choices.  
+- **Higher token context** improves next-word prediction accuracy.  
+
+---
+
+## Future Improvements 🔧  
+
+- **Implement positional encoding** for better embeddings.  
+- **Experiment with Transformer-based models** for improved performance.  
+- **Extend vocabulary using larger datasets**.  
+
+---
+
+## Contributors 🙌  
+
+- [Vansh Yadav](https://github.com/vansh22559)
+- [Shamik Sinha](https://github.com/theshamiksinha)
+- [Shrutya Chawla](https://github.com/shrutya22487)
+
+---
+
+## License 📄  
+
+This project is licensed under the **MIT License**. See `LICENSE` for details.  
