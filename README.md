@@ -4,9 +4,24 @@ This project implements core **Natural Language Processing (NLP)** components fr
 
 ## 📂 Repository Structure
 ```
-├── 📖 README.md <- Project documentation and setup instructions ├── 📜 Project_Description.pdf <- Overview of objectives and methodology ├── 📑 Project Report.pdf <- Final project report with analysis and findings ├── 📂 Data
-│ ├── 📄 corpus.txt <- Raw text corpus for tokenization │ ├── 📄 tokenized_data.json <- Preprocessed tokenized data │ ├── 📄 vocabulary_86.txt <- Extracted vocabulary with 86 unique tokens ├── 📂 src
-│ ├── 📓 Neural_Language_model.ipynb <- Notebook implementing a neural language model │ ├── 📜 Word2Vec_model.py <- Word2Vec model for word embeddings │ ├── 📜 WordPieceTokeniser.ipynb <- Jupyter notebook for WordPiece tokenization │ ├── 📜 WordPieceTokeniser.py <- Python script for tokenization │ ├── 📄 Neural_LM_loss.png <- Training loss curve for language model │ ├── 📄 predicted.png <- Sample predictions from the model │ ├── 📄 task2.png <- Visualization for task 2 │ ├── 📄 task3.png <- Visualization for task 3 │ ├── 📄 tokenSimilarity.png <- Token similarity heatmap │ ├── 📓 temp.ipynb <- Temporary script for testing
+├── 📖 README.md <- Project documentation and setup instructions
+├── 📜 Project_Description.pdf <- Overview of objectives and methodology
+├── 📑 Project Report.pdf <- Final project report with analysis and findings
+├── 📂 Data
+│ ├── 📄 corpus.txt <- Raw text corpus for tokenization
+│ ├── 📄 tokenized_data.json <- Preprocessed tokenized data
+│ ├── 📄 vocabulary_86.txt <- Extracted vocabulary with 86 unique tokens
+├── 📂 src
+│ ├── 📓 Neural_Language_model.ipynb <- Notebook implementing a neural language model
+│ ├── 📜 Word2Vec_model.py <- Word2Vec model for word embeddings
+│ ├── 📜 WordPieceTokeniser.ipynb <- Jupyter notebook for WordPiece tokenization
+│ ├── 📜 WordPieceTokeniser.py <- Python script for tokenization
+│ ├── 📄 Neural_LM_loss.png <- Training loss curve for language model
+│ ├── 📄 predicted.png <- Sample predictions from the model
+│ ├── 📄 task2.png <- Visualization for task 2
+│ ├── 📄 task3.png <- Visualization for task 3
+│ ├── 📄 tokenSimilarity.png <- Token similarity heatmap
+│ ├── 📓 temp.ipynb <- Temporary script for testing
 ```
 ---
 
