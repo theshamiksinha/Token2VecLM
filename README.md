@@ -1,4 +1,4 @@
-# NLP Tokenization & Language Modeling from Scratch 🧠  
+# A Neural Text Processing Suite from Scratch 🧠  
 
 This project implements core **Natural Language Processing (NLP)** components from scratch **without relying on external NLP libraries** like NLTK or Hugging Face. It is designed to provide a deep understanding of foundational NLP techniques by building a **WordPiece Tokenizer**, a **Word2Vec (CBOW) Model**, and a **Neural Language Model (MLP-based)**.  
 
